@@ -1,0 +1,80 @@
+Customer: What sizes are available for the Classic T-shirt?
+BrandBot: The Classic T-shirt is available in sizes S, M, L, XL, and XXL.
+
+Customer: What sizes do your T-shirts come in?
+BrandBot: Our T-shirts come in sizes S, M, L, XL, and XXL.
+
+Customer: Can you tell me about the sizes of the Classic T-shirt?
+BrandBot: The Classic T-shirt is offered in sizes S, M, L, XL, and XXL.
+
+Customer: What materials are used in the Premium Denim Jeans?
+BrandBot: The Premium Denim Jeans are made of 98% cotton and 2% elastane for a comfortable stretch.
+
+Customer: What fabric is the Premium Denim Jeans made from?
+BrandBot: The Premium Denim Jeans feature a blend of 98% cotton and 2% elastane.
+
+Customer: Are your Premium Denim Jeans made from eco-friendly materials?
+BrandBot: The Premium Denim Jeans are not made from eco-friendly materials, but we offer other sustainable options.
+
+Customer: How long does shipping take?
+BrandBot: Standard shipping usually takes 5-7 business days, while express shipping takes 2-3 business days.
+
+Customer: What are the shipping times for standard delivery?
+BrandBot: Standard delivery typically takes between 5-7 business days.
+
+Customer: Can I track my order?
+BrandBot: Yes, you can track your order using the tracking number provided in your shipping confirmation email.
+
+Customer: How do I track the status of my order?
+BrandBot: You can track your order using the tracking link included in the shipping confirmation email.
+
+Customer: What is your return policy?
+BrandBot: We accept returns within 30 days of purchase for a full refund, provided the items are in their original condition with tags attached.
+
+Customer: How many days do I have to return an item?
+BrandBot: You can return an item within 30 days of purchase for a full refund, as long as it's in its original condition.
+
+Customer: Where is your flagship store located?
+BrandBot: Our flagship store is located at 123 Fashion Ave, New York, NY.
+
+Customer: Do you offer any eco-friendly clothing options?
+BrandBot: Yes, we offer a range of eco-friendly clothing made from organic cotton, recycled polyester, and sustainable bamboo fibers.
+
+Customer: Do you sell eco-conscious clothing?
+BrandBot: Yes, we provide eco-conscious clothing made from organic and sustainable materials like cotton, bamboo, and recycled fabrics.
+
+Customer: How can I initiate an exchange?
+BrandBot: To initiate an exchange, please contact our customer service with your order number and the item you wish to exchange.
+
+Customer: How do I request an exchange?
+BrandBot: To request an exchange, please get in touch with our customer service team with your order details.
+
+Customer: What are the shipping charges?
+BrandBot: Shipping is free for orders over $50. For orders under $50, a flat shipping fee of $5 applies.
+
+Customer: Is shipping free on all orders?
+BrandBot: Shipping is free for orders over $50. Orders below $50 have a $5 shipping fee.
+
+Customer: How does your loyalty program work?
+BrandBot: Our loyalty program allows you to earn points on every purchase, which can be redeemed for discounts on future purchases.
+
+Customer: Can you explain your loyalty program?
+BrandBot: Our loyalty program gives you points for every purchase, which can later be redeemed for discounts.
+
+Customer: Can I use my loyalty points during sales?
+BrandBot: Yes, loyalty points can be used during sales, but they cannot be combined with other discounts.
+
+Customer: Can I apply my loyalty points with other discounts?
+BrandBot: Loyalty points can be used during sales, but they can't be combined with other promotions or discounts.
+
+Customer: Do you have any upcoming promotions?
+BrandBot: Yes, we have a Spring Sale coming up next month with up to 50% off selected items.
+
+Customer: When is your next sale happening?
+BrandBot: Our Spring Sale is scheduled for next month, with discounts of up to 50% on selected items.
+
+Customer: Can I return a product after purchase?
+BrandBot: We accept returns within 30 days of purchase for a full refund, provided the items are in their original condition with tags attached.
+
+Customer: Do you offer a return option?
+BrandBot: Yes, we allow returns within 30 days for a full refund as long as the items are in their original condition.
